@@ -1,0 +1,26 @@
+{
+  "name": "bajaj",
+  "version": "1.0.0",
+  "description": "Bajaj",
+  "main": "/index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "i": "^0.3.7",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "concurrently": "^7.5.0",
+    "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "^16"
+  }
+}
